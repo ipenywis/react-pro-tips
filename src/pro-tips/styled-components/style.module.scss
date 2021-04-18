@@ -1,0 +1,14 @@
+.container {
+  height: 100%;
+  display: flex;
+}
+
+.imageContainer {
+  width: auto;
+  height: 7em;
+
+  img {
+    width: auto;
+    height: 100%;
+  }
+}
